@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--gul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-gul-LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--gul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-gul-5a8a5930b)
 [![Email](https://img.shields.io/badge/Email-saragulofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saragulofficial@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-2ea44f?style=for-the-badge)]()
 [![CGPA](https://img.shields.io/badge/CGPA-3.97%2F4.0-gold?style=for-the-badge)]()
@@ -213,7 +213,7 @@ Benchmarked RNN, LSTM, and BERT on Daraz product reviews.
 
 *Building in public — from RAG apps to full autonomous agent systems.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-gul-LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-gul-5a8a5930b)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saragulofficial@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
