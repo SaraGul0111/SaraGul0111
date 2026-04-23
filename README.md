@@ -1,38 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sara%20Gul&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sara%20Gul&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=60&descSize=20"/>
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sara--gul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-gul-5a8a5930b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-gul-5a8a5930b)
 [![Email](https://img.shields.io/badge/Email-saragulofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saragulofficial@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-2ea44f?style=for-the-badge)]()
-[![CGPA](https://img.shields.io/badge/CGPA-3.97%2F4.0-gold?style=for-the-badge)]()
+[![CGPA](https://img.shields.io/badge/CGPA-3.97%2F4.0-FFD700?style=for-the-badge)]()
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## Who I Am
 
 ```python
-sara = {
-    "role"       : "AI Engineer & Researcher",
-    "education"  : "MS Data Science @ FAST-NUCES Islamabad (2026)",
-    "focus"      : ["Agentic AI", "RAG Systems", "Computer Vision", "LLMs"],
-    "experience" : ["Dubai Government AI Project", "PIMS Hospital Research", "NUTECH"],
-    "currently"  : "Learning Agentic AI — Phase 3: Single Agent Systems with LangGraph",
+sara_gul = {
+    "title"      : "AI Engineer & Researcher",
+    "education"  : "MS Data Science — FAST-NUCES Islamabad (2026) | CGPA: 3.97/4.0",
+    "expertise"  : ["LLMs & GenAI", "RAG Systems", "Agentic AI", "Computer Vision", "NLP"],
+    "built_for"  : ["Dubai Government (UAE)", "PIMS Hospital", "NUTECH"],
     "passion"    : "Turning unstructured information into intelligent, actionable systems"
 }
 ```
 
-I build AI systems that actually work in the real world — from automated feasibility document pipelines for UAE government clients, to deep learning models for breast cancer detection in hospitals, to RAG-powered research assistants deployed on the web.
+I build AI systems that **work in the real world** — automated document pipelines for UAE government clients, deep learning models for cancer detection in hospitals, and RAG-powered assistants deployed on the web. My work sits at the intersection of research rigor and production engineering.
 
 ---
 
-## 🚀 Featured Projects
+##  What I Can Deliver For You
+
+> *Whether you're a startup, enterprise, or research team — here's exactly how I can add value:*
+
+###  Intelligent AI Pipelines & Automation
+Design and build end-to-end AI systems that eliminate manual effort. From document ingestion to structured report generation, I turn messy, unstructured data into clean, actionable outputs — as proven by my work on an Arabic feasibility document pipeline for a Dubai government client.
+
+### RAG Systems & LLM-Powered Applications
+Build custom Retrieval-Augmented Generation (RAG) solutions using LangChain, FAISS, and state-of-the-art LLMs. I deliver chatbots, research assistants, and knowledge bases tailored to your domain — not generic templates.
+
+###  Agentic AI Systems
+Develop autonomous AI agents with tool use, memory, and decision-making capabilities using LangGraph and ReAct frameworks. I build agents that can browse the web, query APIs, reason over documents, and complete multi-step tasks without human intervention.
+
+###  Computer Vision & Medical AI
+Implement production-grade CV pipelines for object detection, image segmentation, histopathology analysis, and OCR — including Arabic document processing. Validated with real clinical partners (PIMS Hospital) and drone imagery datasets.
+
+###  NLP & Sentiment Intelligence
+Fine-tune transformer models (BERT, DistilBERT, T5) for your specific NLP tasks — sentiment analysis, text summarization, classification — with deployable interfaces ready for production.
+
+###  Research-to-Production Bridge
+If you have a research idea that needs engineering — or a production system that needs research depth — I bridge both worlds with academic rigor and practical delivery.
+
+---
+
+##  Technical Skills
+
+### Generative AI · LLMs · Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-ReAct_Agents-6366f1?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-10b981?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-3b82f6?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Chainlit](https://img.shields.io/badge/Chainlit-Chat_UI-f97316?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-Web_Search_API-8b5cf6?style=flat-square)
+
+###  Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-BERT_|_T5_|_DistilBERT-yellow?style=flat-square)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-ef4444?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-Arabic_Documents-64748b?style=flat-square)
+![WSI](https://img.shields.io/badge/Whole_Slide_Imaging-Histopathology-dc2626?style=flat-square)
+![Roboflow](https://img.shields.io/badge/Roboflow-8b5cf6?style=flat-square)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-Twins_SVT_|_MIL-0ea5e9?style=flat-square)
+
+###  Data Science & NLP
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-15803d?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace_Spaces-Deployed-FFD21E?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+##  Featured Projects
 
 <table>
 <tr>
@@ -43,15 +108,14 @@ I build AI systems that actually work in the real world — from automated feasi
 
 Upload any PDF → Chat with it → Get a full Literature Review table in one click.
 
-- RAG pipeline with FAISS vector search
-- MMR retrieval for diverse, accurate answers
-- 14-field LR Table auto-extraction
+- RAG pipeline with FAISS vector search & MMR retrieval
+- 14-field Literature Review Table — auto-extracted
 - Export to Excel instantly
-- Deployed free on Hugging Face Spaces
+- Deployed on Hugging Face Spaces
 
 **Stack:** `FastAPI` `LangChain` `Gemini 2.5 Flash` `FAISS` `sentence-transformers`
 
-[![Repo](https://img.shields.io/badge/GitHub-ResearchPal-181717?style=flat&logo=github)](https://github.com/SaraGul0111/research-pal)
+[![GitHub](https://img.shields.io/badge/GitHub-ResearchPal-181717?style=flat&logo=github)](https://github.com/SaraGul0111/research-pal)
 
 </td>
 <td width="50%">
@@ -59,12 +123,11 @@ Upload any PDF → Chat with it → Get a full Literature Review table in one cl
 ### 🏥 Breast Cancer Biomarker Prediction
 **Deep Learning on Whole Slide Images**
 
-Predicts ER, PR, HER2 biomarkers directly from histopathology WSIs — reducing diagnosis time for clinicians.
+Predicts ER, PR, HER2 biomarkers from histopathology WSIs — validated with PIMS Hospital pathologists.
 
-- Twins-SVT Vision Transformer architecture
-- Attention-based Multiple Instance Learning (MIL)
-- F1-score: **0.902**
-- Validated with pathologists at PIMS Hospital
+- Twins-SVT Vision Transformer + Attention MIL
+- **F1-score: 0.902**
+- Reduces clinical diagnosis time significantly
 
 **Stack:** `PyTorch` `OpenSlide` `Computer Vision` `Transformers`
 
@@ -78,23 +141,23 @@ Predicts ER, PR, HER2 biomarkers directly from histopathology WSIs — reducing 
 
 End-to-end AI pipeline for Arabic feasibility document automation.
 
-- **Module A:** OCR extraction from Arabic documents → structured Excel
-- **Module B:** LLM-driven analysis and insight generation
-- **Module C:** Full report generation with web-cited benchmarks (Tavily, DuckDuckGo)
+- **Module A:** Arabic OCR → structured Excel
+- **Module B:** LLM-driven analysis & insights
+- **Module C:** Auto-generated reports with web-cited benchmarks
 
-**Stack:** `Python` `LLMs` `OCR` `LangChain` `Tavily API`
+**Stack:** `Python` `LLMs` `OCR` `LangChain` `Tavily` `DuckDuckGo`
 
 </td>
 <td width="50%">
 
 ### 🏦 Financial Tweet Sentiment Analysis
-**DistilBERT on Twitter Financial News**
+**DistilBERT Fine-Tuned on Financial Twitter**
 
-Classifies market sentiment as Bearish / Bullish / Neutral from financial tweets.
+Real-time Bearish / Bullish / Neutral classification.
 
 - Fine-tuned DistilBERT on financial Twitter dataset
 - **93% accuracy**
-- Deployed with PyQt5 GUI for real-time analysis
+- Deployed with PyQt5 GUI
 
 **Stack:** `HuggingFace` `DistilBERT` `PyQt5` `NLP`
 
@@ -106,11 +169,10 @@ Classifies market sentiment as Bearish / Bullish / Neutral from financial tweets
 ### 💊 RAG-Based Medical Chatbot
 **LLM + LangChain + Chainlit**
 
-Interactive chatbot providing causes, symptoms, and treatments for 30 diseases using RAG.
+Interactive chatbot covering 30 diseases — causes, symptoms, and treatments.
 
 - Google Flan-T5 + LangChain + HuggingFace
-- Retrieval Augmented Generation pipeline
-- Chainlit interactive interface
+- Full RAG pipeline with Chainlit UI
 
 **Stack:** `Flan-T5` `LangChain` `HuggingFace` `Chainlit`
 
@@ -120,10 +182,10 @@ Interactive chatbot providing causes, symptoms, and treatments for 30 diseases u
 ### 🛍️ Daraz Review Sentiment Classifier
 **Roman Urdu / English Multilingual NLP**
 
-Benchmarked RNN, LSTM, and BERT on Daraz product reviews.
+Benchmarked RNN, LSTM, and BERT on multilingual Daraz reviews.
 
 - Handled Roman Urdu + English mixed dataset
-- **91% accuracy** with BERT Transformer
+- **91% accuracy** with BERT
 - Real-time GUI for customer feedback
 
 **Stack:** `BERT` `TensorFlow` `NLTK` `Python`
@@ -134,50 +196,16 @@ Benchmarked RNN, LSTM, and BERT on Daraz product reviews.
 
 ---
 
-## 🧠 Skills & Technologies
+## 💼 Professional Experience
 
-### AI · ML · Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**🇦🇪 AI / Data Science Engineer** — Gap Dynamics UAE · Remote *(Feb–Mar 2026)*
+> Built a 3-module automated feasibility document pipeline for a Dubai government client — Arabic OCR extraction, LLM-powered analysis, and full report generation with web-cited benchmarks using Tavily and DuckDuckGo.
 
-### Generative AI · LLMs · RAG
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=flat-square)
-![Chainlit](https://img.shields.io/badge/Chainlit-Chat_UI-orange?style=flat-square)
+**🏥 Research Assistant — AI in Histopathology** — FAST-NUCES × PIMS Hospital *(Mar 2025–Feb 2026)*
+> Developing deep learning models for biomarker classification in digital pathology using Whole Slide Images. Collaborating directly with clinicians to validate annotations and ensure clinical relevance.
 
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-orange?style=flat-square)
-![WSI](https://img.shields.io/badge/Whole_Slide_Images-Histopathology-red?style=flat-square)
-![Roboflow](https://img.shields.io/badge/Roboflow-purple?style=flat-square)
-
-### Web · Tools · Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace_Spaces-Deployed-FFD21E?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 📍 Agentic AI Learning Roadmap
-
-| Phase | Topic | Status |
-|-------|-------|--------|
-| ✅ Phase 1 | Python Advanced · APIs · LLM Fundamentals · Embeddings · Vector DBs | **Complete** |
-| ✅ Phase 2 | RAG · LangChain · LLM Apps · **Built ResearchPal** | **Complete** |
-| 🔄 Phase 3 | Single Agent Systems · ReAct · Tool Use · LangGraph | **In Progress** |
-| ⏳ Phase 4 | Multi-Agent Systems · CrewAI · AutoGen | Upcoming |
-| ⏳ Phase 5 | MCP · Guardrails · Human-in-the-Loop · Agent Security | Upcoming |
-| ⏳ Phase 6 | Production · Observability · Evals · Deployment | Upcoming |
+**🛣️ Research Assistant — AI for Infrastructure** — NUTECH *(Jan–Feb 2025)*
+> Processed and annotated drone imagery datasets for computer vision models detecting road damage and erosion, with rigorous quality control protocols.
 
 ---
 
@@ -187,35 +215,23 @@ Benchmarked RNN, LSTM, and BERT on Daraz product reviews.
 
 `Deep Learning` `Generative AI` `Computer Vision` `NLP` `Machine Learning` `Research Methodology` `Probability & Statistics`
 
-**Certifications**
-- 🏥 Transforming Healthcare Through Medical Imaging and AI *(2025)*
-- 🤖 Python and AI Bootcamp — AI Club ki Baithak *(2024)*
-- ✍️ Writing in the Sciences — Stanford University via Coursera *(2024)*
-
----
-
-## 💼 Professional Experience
-
-**🇦🇪 AI / Data Science Engineer** — Gap Dynamics UAE · Remote *(Feb–Mar 2026)*
-> Built a 3-module automated feasibility document pipeline for a Dubai government client — Arabic OCR extraction, LLM-powered analysis, and full report generation with web-cited benchmarks.
-
-**🏥 Research Assistant — AI in Histopathology** — FAST-NUCES × PIMS Hospital *(Mar 2025–Feb 2026)*
-> Developing deep learning models for biomarker classification in digital pathology. Working directly with clinicians to validate ground-truth annotations and ensure clinical relevance on large-scale Whole Slide Images.
-
-**🛣️ Research Assistant — AI for Infrastructure** — NUTECH *(Jan–Feb 2025)*
-> Processed and annotated drone imagery datasets for computer vision models detecting road damage and erosion.
+| Certification | Year |
+|---|---|
+| 🏥 Transforming Healthcare Through Medical Imaging and AI | 2025 |
+| 🤖 Python and AI Bootcamp — AI Club ki Baithak | 2024 |
+| ✍️ Writing in the Sciences — Stanford University via Coursera | 2024 |
 
 ---
 
 <div align="center">
 
-### 💬 Open to Collaborations · Research · Opportunities
+### 💬 Open to Collaborations · Freelance Projects · Research Opportunities
 
-*Building in public — from RAG apps to full autonomous agent systems.*
+*Building AI systems that solve real problems — from RAG apps to full autonomous agent pipelines.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-gul-5a8a5930b)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saragulofficial@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
